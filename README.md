@@ -6,3 +6,5 @@ Version is 1.15
 For tutorial:
 This is Map made to explain to begineers the ideas of Redstone, Commands and builds.
 This version works for 1.16
+For better:
+A prototype for one hundred levels. It has the inner workings of one hundered lvels.
